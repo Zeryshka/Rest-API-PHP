@@ -1,3 +1,3 @@
-# RESTful API vanilla PHP
+# RESTful API (Vanilla PHP)
 
 RESTful API. Стандартный CRUD
